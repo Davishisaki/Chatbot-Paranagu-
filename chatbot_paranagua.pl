@@ -56,6 +56,8 @@ pergunta_resposta('quais sao as principais industrias em paranagua?', 'As princi
 
 pergunta_resposta('qual a importância da pesca na economia de paranagua?', 'A pesca e uma atividade tradicional e continua a ser importante para a economia local, fornecendo emprego e renda para a população.').
 
+pergunta_resposta('existem naufragios na baia de paranagua?', 'Sim, existe um naufragio próximo ao porto de paranagua.')
+
 
 
 % Informações sobre Educação
