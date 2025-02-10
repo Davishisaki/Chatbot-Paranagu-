@@ -2,7 +2,7 @@
 
 % Configuração do banco de dados
 connect_to_db :-
-    odbc_connect('MySQLDSN', _Connection, [user('chatbotpgua'), password('chatbotpgua'), alias(mydb), open(once)]).
+    odbc_connect('MySQLDSN', _Connection, [user('aluno'), password('aluno'), alias(mydb), open(once)]).
 
 % Função para consultar dados e usar assertz
 consult_and_assert :-
